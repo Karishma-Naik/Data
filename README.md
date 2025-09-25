@@ -39,7 +39,8 @@ The dataset contains detailed information about data-related roles:
 - 🛠️ **Skills** – Technical and business skills required for each role  
 
 ---
-📁 Download the dataset:[Uploading data_jobs_salary_all.xlsx…](data_jobs_salary_all.xlsx)
+📁 Download the dataset:[data_jobs_salary_all.xlsx](https://github.com/user-attachments/files/22531875/data_jobs_salary_all.xlsx)
+
 ---
 
 ## Dashboard Build
