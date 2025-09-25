@@ -1,4 +1,4 @@
-[data_jobs_salary_all.xlsx](https://github.com/user-attachments/files/22531402/data_jobs_salary_all.xlsx)[data_jobs_salary_all.xlsx](https://github.com/user-attachments/files/22531365/data_jobs_salary_all.xlsx)# Excel Salary Dashboard & Data Job Market Analysis | 2025
+# Excel Salary Dashboard & Data Job Market Analysis | 2025
 
 ## Introduction
 
